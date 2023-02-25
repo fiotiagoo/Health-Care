@@ -23,3 +23,33 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 -  -- [Setting](https://github.com/fiotiagoo/Health-Care/tree/main///setting)
 -  -- [ Learning Paradigm](https://github.com/fiotiagoo/Health-Care/tree/main///supervision)
 -  -- [Published Time](https://github.com/fiotiagoo/Health-Care/tree/main///time)
+
+## Survey
+
+- [![](https://img.shields.io/badge/arXiv_preprint_arXiv:2206.06488-2022-blue)](
+https://arxiv.org/abs/2206.06488) [**Multimodal learning with transformers: A survey**](
+https://arxiv.org/abs/2206.06488) , <br> by *Xu, Peng, Zhu, Xiatian and Clifton, David A* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L231-L243)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```xu2022multimodal```
+- [![](https://img.shields.io/badge/arXiv_preprint_arXiv:2201.11838-2022-blue)](
+https://www.sciencedirect.com/science/article/pii/S1532046421003117
+) [**Clinical-longformer and clinical-bigbird: Transformers for long clinical sequences**](
+https://www.sciencedirect.com/science/article/pii/S1532046421003117
+) , <br> by *Li, Yikuan, Wehbe, Ramsey M, Ahmad, Faraz S, Wang, Hanyin and Luo, Yuan* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L280-L293)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```li2022clinical```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.05542) [**AMMUS : A Survey of Transformer-based Pretrained Models in Natural
+Language Processing**](https://arxiv.org/abs/2108.05542) , <br> by *Katikapalli Subramanyam Kalyan and
+Ajit Rajasekharan and
+Sivanesan Sangeetha* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L77-L98)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```DBLP:journals/corr/abs-2108-05542```
+- [![](https://img.shields.io/badge/Iscience-2021-blue)](https://www.sciencedirect.com/science/article/pii/S2589004221001231) [**Opportunities and challenges of text mining in materials research**](https://www.sciencedirect.com/science/article/pii/S2589004221001231) , <br> by *Kononova, Olga, He, Tanjin, Huo, Haoyan, Trewartha, Amalie, Olivetti, Elsa A and Ceder, Gerbrand* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L192-L207)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```kononova2021opportunities```
+- [![](https://img.shields.io/badge/J._Biomed._Informatics-2021-blue)](https://doi.org/10.1016/j.jbi.2020.103671) [**Deep representation learning of patient data from Electronic Health
+Records (EHR): A systematic review**](https://doi.org/10.1016/j.jbi.2020.103671) , <br> by *Yuqi Si and
+Jingcheng Du and
+Zhao Li and
+Xiaoqian Jiang and
+Timothy A. Miller and
+Fei Wang and
+W. Jim Zheng and
+Kirk Roberts* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L209-L229)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```DBLP:journals/jbi/SiDLJMWZR21```
+- [![](https://img.shields.io/badge/Journal_of_biomedical_informatics-2021-blue)](
+https://www.sciencedirect.com/science/article/pii/S1532046421003117
+) [**AMMU: a survey of transformer-based biomedical pretrained language models**](
+https://www.sciencedirect.com/science/article/pii/S1532046421003117
+) , <br> by *Kalyan, Katikapalli Subramanyam, Rajasekharan, Ajit and Sangeetha, Sivanesan* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L263-L278)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```kalyan2021ammu```

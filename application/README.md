@@ -24,6 +24,13 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 -  -- [ Learning Paradigm](https://github.com/fiotiagoo/Health-Care/tree/main///supervision)
 -  -- [Published Time](https://github.com/fiotiagoo/Health-Care/tree/main///time)
 
-## Event Extraction
+## Named Entity Recognition
 
-- [![](https://img.shields.io/badge/Nature_Biomedical_Engineering-2022-blue)]() [**Self-supervised learning in medicine and healthcare**]() , <br> by *Krishnan, Rayan, Rajpurkar, Pranav and Topol, Eric J* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L63-L78)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```krishnan2022self```
+- [![](https://img.shields.io/badge/Patterns-2022-blue)](
+https://www.sciencedirect.com/science/article/pii/S2666389922000733
+) [**Quantifying the advantage of domain-specific pre-training on named entity recognition tasks in materials science**](
+https://www.sciencedirect.com/science/article/pii/S2666389922000733
+) , <br> by *Trewartha, Amalie, Walker, Nicholas, Huo, Haoyan, Lee, Sanghoon, Cruse, Kevin, Dagdelen, John, Dunn, Alexander, Persson, Kristin A, Ceder, Gerbrand and Jain, Anubhav* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L245-L261)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```trewartha2022quantifying```
+## Text Mining
+
+- [![](https://img.shields.io/badge/Iscience-2021-blue)](https://www.sciencedirect.com/science/article/pii/S2589004221001231) [**Opportunities and challenges of text mining in materials research**](https://www.sciencedirect.com/science/article/pii/S2589004221001231) , <br> by *Kononova, Olga, He, Tanjin, Huo, Haoyan, Trewartha, Amalie, Olivetti, Elsa A and Ceder, Gerbrand* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L192-L207)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```kononova2021opportunities```

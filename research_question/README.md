@@ -24,6 +24,9 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 -  -- [ Learning Paradigm](https://github.com/fiotiagoo/Health-Care/tree/main///supervision)
 -  -- [Published Time](https://github.com/fiotiagoo/Health-Care/tree/main///time)
 
-## Few-shot Adaptation
+## Data Augment
 
-- [![](https://img.shields.io/badge/Nature_Biomedical_Engineering-2022-blue)]() [**Self-supervised learning in medicine and healthcare**]() , <br> by *Krishnan, Rayan, Rajpurkar, Pranav and Topol, Eric J* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L63-L78)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```krishnan2022self```
+- [![](https://img.shields.io/badge/Nature_Biomedical_Engineering-2022-blue)](https://www.nature.com/articles/s41551-022-00898-y) [**Shifting machine learning for healthcare from development to deployment and from models to data**](https://www.nature.com/articles/s41551-022-00898-y) , <br> by *Zhang, Angela, Xing, Lei, Zou, James and Wu, Joseph C* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L177-L190)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```zhang2022shifting```
+## Material Research
+
+- [![](https://img.shields.io/badge/Iscience-2021-blue)](https://www.sciencedirect.com/science/article/pii/S2589004221001231) [**Opportunities and challenges of text mining in materials research**](https://www.sciencedirect.com/science/article/pii/S2589004221001231) , <br> by *Kononova, Olga, He, Tanjin, Huo, Haoyan, Trewartha, Amalie, Olivetti, Elsa A and Ceder, Gerbrand* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L192-L207)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```kononova2021opportunities```
