@@ -14,15 +14,13 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 ## Hyperlink 
 - [[Overview]](https://github.com/fiotiagoo/Health-Care/tree/main//README.md) -- [Homepage](https://github.com/fiotiagoo/Health-Care/tree/main//README.md)
--  -- [Summary](https://github.com/fiotiagoo/Health-Care/tree/main///./)
+-  -- [Published Time](https://github.com/fiotiagoo/Health-Care/tree/main///./)
 -  -- [Application](https://github.com/fiotiagoo/Health-Care/tree/main///application)
 -  -- [Approach](https://github.com/fiotiagoo/Health-Care/tree/main///approach)
 -  -- [Backbone Model](https://github.com/fiotiagoo/Health-Care/tree/main///backbone_model)
 -  -- [Contribution](https://github.com/fiotiagoo/Health-Care/tree/main///contribution)
 -  -- [Research Questions](https://github.com/fiotiagoo/Health-Care/tree/main///research_question)
--  -- [Setting](https://github.com/fiotiagoo/Health-Care/tree/main///setting)
 -  -- [ Learning Paradigm](https://github.com/fiotiagoo/Health-Care/tree/main///supervision)
--  -- [Published Time](https://github.com/fiotiagoo/Health-Care/tree/main///time)
 
 ## Survey
 
@@ -53,3 +51,10 @@ https://www.sciencedirect.com/science/article/pii/S1532046421003117
 ) [**AMMU: a survey of transformer-based biomedical pretrained language models**](
 https://www.sciencedirect.com/science/article/pii/S1532046421003117
 ) , <br> by *Kalyan, Katikapalli Subramanyam, Rajasekharan, Ajit and Sangeetha, Sivanesan* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L263-L278)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```kalyan2021ammu```
+## New Dataset
+
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10770) [**ImPaKT: A Dataset for Open-Schema Knowledge Base Construction**](https://doi.org/10.48550/arXiv.2212.10770) , <br> by *Luke Vilnis and
+Zachary Fisher and
+Bhargav Kanagal and
+Patrick Murray and
+Sumit Sanghai* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L295-L312)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```DBLP:journals/corr/abs-2212-10770```

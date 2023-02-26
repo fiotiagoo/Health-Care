@@ -14,15 +14,13 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 ## Hyperlink 
 - [[Overview]](https://github.com/fiotiagoo/Health-Care/tree/main//README.md) -- [Homepage](https://github.com/fiotiagoo/Health-Care/tree/main//README.md)
--  -- [Summary](https://github.com/fiotiagoo/Health-Care/tree/main///./)
+-  -- [Published Time](https://github.com/fiotiagoo/Health-Care/tree/main///./)
 -  -- [Application](https://github.com/fiotiagoo/Health-Care/tree/main///application)
 -  -- [Approach](https://github.com/fiotiagoo/Health-Care/tree/main///approach)
 -  -- [Backbone Model](https://github.com/fiotiagoo/Health-Care/tree/main///backbone_model)
 -  -- [Contribution](https://github.com/fiotiagoo/Health-Care/tree/main///contribution)
 -  -- [Research Questions](https://github.com/fiotiagoo/Health-Care/tree/main///research_question)
--  -- [Setting](https://github.com/fiotiagoo/Health-Care/tree/main///setting)
 -  -- [ Learning Paradigm](https://github.com/fiotiagoo/Health-Care/tree/main///supervision)
--  -- [Published Time](https://github.com/fiotiagoo/Health-Care/tree/main///time)
 
 ## Named Entity Recognition
 
@@ -34,3 +32,10 @@ https://www.sciencedirect.com/science/article/pii/S2666389922000733
 ## Text Mining
 
 - [![](https://img.shields.io/badge/Iscience-2021-blue)](https://www.sciencedirect.com/science/article/pii/S2589004221001231) [**Opportunities and challenges of text mining in materials research**](https://www.sciencedirect.com/science/article/pii/S2589004221001231) , <br> by *Kononova, Olga, He, Tanjin, Huo, Haoyan, Trewartha, Amalie, Olivetti, Elsa A and Ceder, Gerbrand* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L192-L207)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```kononova2021opportunities```
+## Term Extraction
+
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10770) [**ImPaKT: A Dataset for Open-Schema Knowledge Base Construction**](https://doi.org/10.48550/arXiv.2212.10770) , <br> by *Luke Vilnis and
+Zachary Fisher and
+Bhargav Kanagal and
+Patrick Murray and
+Sumit Sanghai* [[bib]](https://github.com/fiotiagoo/Health-Care/tree/main//./bibtex.bib#L295-L312)<br> </details><details><summary><img src=https://github.com/fiotiagoo/Health-Care/tree/main//scripts/svg/copy_icon.png height="20"></summary><pre>```DBLP:journals/corr/abs-2212-10770```

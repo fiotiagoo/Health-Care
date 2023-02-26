@@ -14,15 +14,13 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 ## Hyperlink 
 - [[Overview]](https://github.com/fiotiagoo/Health-Care/tree/main//README.md) -- [Homepage](https://github.com/fiotiagoo/Health-Care/tree/main//README.md)
--  -- [Summary](https://github.com/fiotiagoo/Health-Care/tree/main///./)
+-  -- [Published Time](https://github.com/fiotiagoo/Health-Care/tree/main///./)
 -  -- [Application](https://github.com/fiotiagoo/Health-Care/tree/main///application)
 -  -- [Approach](https://github.com/fiotiagoo/Health-Care/tree/main///approach)
 -  -- [Backbone Model](https://github.com/fiotiagoo/Health-Care/tree/main///backbone_model)
 -  -- [Contribution](https://github.com/fiotiagoo/Health-Care/tree/main///contribution)
 -  -- [Research Questions](https://github.com/fiotiagoo/Health-Care/tree/main///research_question)
--  -- [Setting](https://github.com/fiotiagoo/Health-Care/tree/main///setting)
 -  -- [ Learning Paradigm](https://github.com/fiotiagoo/Health-Care/tree/main///supervision)
--  -- [Published Time](https://github.com/fiotiagoo/Health-Care/tree/main///time)
 
 ## Data Augment
 
